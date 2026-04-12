@@ -11,4 +11,12 @@ Just for Test!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0118-pascals-triangle](https://github.com/rasika200514/leetcode/tree/main/0118-pascals-triangle/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0125-valid-palindrome](https://github.com/rasika200514/leetcode/tree/main/0125-valid-palindrome/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0125-valid-palindrome](https://github.com/rasika200514/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 <!---LeetCode Topics End-->
