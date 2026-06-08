@@ -19,4 +19,8 @@ Just for Test!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/rasika200514/leetcode/tree/main/0125-valid-palindrome/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2235-add-two-integers](https://github.com/rasika200514/leetcode/tree/main/2235-add-two-integers/) | Easy |
 <!---LeetCode Topics End-->
