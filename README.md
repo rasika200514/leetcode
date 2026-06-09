@@ -8,6 +8,7 @@ Just for Test!
 | ------- | ------- |
 | [0118-pascals-triangle](https://github.com/rasika200514/leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [1929-concatenation-of-array](https://github.com/rasika200514/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/rasika200514/leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -20,6 +21,7 @@ Just for Test!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/rasika200514/leetcode/tree/main/0125-valid-palindrome/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/rasika200514/leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -28,4 +30,5 @@ Just for Test!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1929-concatenation-of-array](https://github.com/rasika200514/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/rasika200514/leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 <!---LeetCode Topics End-->
