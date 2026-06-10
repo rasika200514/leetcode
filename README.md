@@ -12,6 +12,7 @@ Just for Test!
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/rasika200514/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/rasika200514/leetcode/tree/main/0118-pascals-triangle/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -26,6 +27,7 @@ Just for Test!
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/rasika200514/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0263-ugly-number](https://github.com/rasika200514/leetcode/tree/main/0263-ugly-number/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rasika200514/leetcode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [2235-add-two-integers](https://github.com/rasika200514/leetcode/tree/main/2235-add-two-integers/) | Easy |
@@ -39,4 +41,8 @@ Just for Test!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rasika200514/leetcode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/rasika200514/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
