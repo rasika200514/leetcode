@@ -27,6 +27,7 @@ Just for Test!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0263-ugly-number](https://github.com/rasika200514/leetcode/tree/main/0263-ugly-number/) | Easy |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rasika200514/leetcode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [2235-add-two-integers](https://github.com/rasika200514/leetcode/tree/main/2235-add-two-integers/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/rasika200514/leetcode/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 ## Simulation
@@ -34,4 +35,8 @@ Just for Test!
 | ------- | ------- |
 | [1929-concatenation-of-array](https://github.com/rasika200514/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/rasika200514/leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rasika200514/leetcode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 <!---LeetCode Topics End-->
