@@ -28,6 +28,7 @@ Just for Test!
 | ------- | ------- |
 | [0263-ugly-number](https://github.com/rasika200514/leetcode/tree/main/0263-ugly-number/) | Easy |
 | [2235-add-two-integers](https://github.com/rasika200514/leetcode/tree/main/2235-add-two-integers/) | Easy |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/rasika200514/leetcode/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
