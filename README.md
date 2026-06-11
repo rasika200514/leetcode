@@ -6,6 +6,7 @@ Just for Test!
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/rasika200514/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0066-plus-one](https://github.com/rasika200514/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0118-pascals-triangle](https://github.com/rasika200514/leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [1929-concatenation-of-array](https://github.com/rasika200514/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
@@ -58,5 +59,6 @@ Just for Test!
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/rasika200514/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0202-happy-number](https://github.com/rasika200514/leetcode/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->
