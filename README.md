@@ -29,6 +29,7 @@ Just for Test!
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/rasika200514/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0263-ugly-number](https://github.com/rasika200514/leetcode/tree/main/0263-ugly-number/) | Easy |
+| [0367-valid-perfect-square](https://github.com/rasika200514/leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rasika200514/leetcode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [2235-add-two-integers](https://github.com/rasika200514/leetcode/tree/main/2235-add-two-integers/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/rasika200514/leetcode/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
@@ -45,4 +46,8 @@ Just for Test!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/rasika200514/leetcode/tree/main/0070-climbing-stairs/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0367-valid-perfect-square](https://github.com/rasika200514/leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 <!---LeetCode Topics End-->
