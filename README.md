@@ -19,6 +19,7 @@ Just for Test!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/rasika200514/leetcode/tree/main/0125-valid-palindrome/) | Easy |
+| [0202-happy-number](https://github.com/rasika200514/leetcode/tree/main/0202-happy-number/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -30,6 +31,7 @@ Just for Test!
 | ------- | ------- |
 | [0066-plus-one](https://github.com/rasika200514/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0070-climbing-stairs](https://github.com/rasika200514/leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [0202-happy-number](https://github.com/rasika200514/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0263-ugly-number](https://github.com/rasika200514/leetcode/tree/main/0263-ugly-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/rasika200514/leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rasika200514/leetcode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
@@ -52,4 +54,8 @@ Just for Test!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0367-valid-perfect-square](https://github.com/rasika200514/leetcode/tree/main/0367-valid-perfect-square/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/rasika200514/leetcode/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->
