@@ -6,6 +6,7 @@ Just for Test!
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0066-plus-one](https://github.com/rasika200514/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0118-pascals-triangle](https://github.com/rasika200514/leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [1929-concatenation-of-array](https://github.com/rasika200514/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/rasika200514/leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
@@ -27,6 +28,7 @@ Just for Test!
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0066-plus-one](https://github.com/rasika200514/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0070-climbing-stairs](https://github.com/rasika200514/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0263-ugly-number](https://github.com/rasika200514/leetcode/tree/main/0263-ugly-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/rasika200514/leetcode/tree/main/0367-valid-perfect-square/) | Easy |
