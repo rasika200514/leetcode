@@ -37,6 +37,7 @@ Just for Test!
 | [0058-length-of-last-word](https://github.com/rasika200514/leetcode/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/rasika200514/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/rasika200514/leetcode/tree/main/0344-reverse-string/) | Easy |
+| [1108-defanging-an-ip-address](https://github.com/rasika200514/leetcode/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/rasika200514/leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 ## Math
 | Problem Name | Difficulty |
