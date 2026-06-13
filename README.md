@@ -7,6 +7,7 @@ Just for Test!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/rasika200514/leetcode/tree/main/0001-two-sum/) | Easy |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/rasika200514/leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0053-maximum-subarray](https://github.com/rasika200514/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/rasika200514/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0118-pascals-triangle](https://github.com/rasika200514/leetcode/tree/main/0118-pascals-triangle/) | Easy |
@@ -24,6 +25,7 @@ Just for Test!
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/rasika200514/leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/rasika200514/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0202-happy-number](https://github.com/rasika200514/leetcode/tree/main/0202-happy-number/) | Easy |
 ## String
