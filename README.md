@@ -42,6 +42,7 @@ Just for Test!
 | [0242-valid-anagram](https://github.com/rasika200514/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/rasika200514/leetcode/tree/main/0344-reverse-string/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/rasika200514/leetcode/tree/main/1108-defanging-an-ip-address/) | Easy |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/rasika200514/leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/rasika200514/leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -79,6 +80,7 @@ Just for Test!
 | [0169-majority-element](https://github.com/rasika200514/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/rasika200514/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0242-valid-anagram](https://github.com/rasika200514/leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/rasika200514/leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
