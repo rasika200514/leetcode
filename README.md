@@ -41,6 +41,7 @@ Just for Test!
 | [0125-valid-palindrome](https://github.com/rasika200514/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/rasika200514/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/rasika200514/leetcode/tree/main/0344-reverse-string/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/rasika200514/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/rasika200514/leetcode/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rasika200514/leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/rasika200514/leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
@@ -80,6 +81,7 @@ Just for Test!
 | [0169-majority-element](https://github.com/rasika200514/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/rasika200514/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0242-valid-anagram](https://github.com/rasika200514/leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/rasika200514/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rasika200514/leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -95,6 +97,7 @@ Just for Test!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/rasika200514/leetcode/tree/main/0169-majority-element/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/rasika200514/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -103,4 +106,8 @@ Just for Test!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/rasika200514/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/rasika200514/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
