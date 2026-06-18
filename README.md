@@ -17,6 +17,7 @@ Just for Test!
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rasika200514/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0169-majority-element](https://github.com/rasika200514/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rasika200514/leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [1572-matrix-diagonal-sum](https://github.com/rasika200514/leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1929-concatenation-of-array](https://github.com/rasika200514/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/rasika200514/leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 ## Dynamic Programming
@@ -114,4 +115,8 @@ Just for Test!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/rasika200514/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1572-matrix-diagonal-sum](https://github.com/rasika200514/leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 <!---LeetCode Topics End-->
