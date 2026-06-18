@@ -15,6 +15,7 @@ Just for Test!
 | [0118-pascals-triangle](https://github.com/rasika200514/leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rasika200514/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/rasika200514/leetcode/tree/main/0169-majority-element/) | Easy |
+| [0852-peak-index-in-a-mountain-array](https://github.com/rasika200514/leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1929-concatenation-of-array](https://github.com/rasika200514/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/rasika200514/leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 ## Dynamic Programming
@@ -74,6 +75,7 @@ Just for Test!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0367-valid-perfect-square](https://github.com/rasika200514/leetcode/tree/main/0367-valid-perfect-square/) | Easy |
+| [0852-peak-index-in-a-mountain-array](https://github.com/rasika200514/leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
