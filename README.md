@@ -29,6 +29,7 @@ Just for Test!
 | [0070-climbing-stairs](https://github.com/rasika200514/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/rasika200514/leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rasika200514/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0343-integer-break](https://github.com/rasika200514/leetcode/tree/main/0343-integer-break/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -59,6 +60,7 @@ Just for Test!
 | [0070-climbing-stairs](https://github.com/rasika200514/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/rasika200514/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0263-ugly-number](https://github.com/rasika200514/leetcode/tree/main/0263-ugly-number/) | Easy |
+| [0343-integer-break](https://github.com/rasika200514/leetcode/tree/main/0343-integer-break/) | Medium |
 | [0367-valid-perfect-square](https://github.com/rasika200514/leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/rasika200514/leetcode/tree/main/0728-self-dividing-numbers/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rasika200514/leetcode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
