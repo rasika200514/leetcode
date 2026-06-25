@@ -14,6 +14,7 @@ Just for Test!
 | [0066-plus-one](https://github.com/rasika200514/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0118-pascals-triangle](https://github.com/rasika200514/leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rasika200514/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rasika200514/leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rasika200514/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0169-majority-element](https://github.com/rasika200514/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rasika200514/leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -29,6 +30,7 @@ Just for Test!
 | [0070-climbing-stairs](https://github.com/rasika200514/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/rasika200514/leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rasika200514/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rasika200514/leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0343-integer-break](https://github.com/rasika200514/leetcode/tree/main/0343-integer-break/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -127,4 +129,8 @@ Just for Test!
 | ------- | ------- |
 | [0867-transpose-matrix](https://github.com/rasika200514/leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/rasika200514/leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rasika200514/leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 <!---LeetCode Topics End-->
